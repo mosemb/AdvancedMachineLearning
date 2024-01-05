@@ -1,1 +1,1 @@
-In this repo I have all the assignments I did for my Advanced Machine Learning course. The topics covered among others include Deep Learning, Time Series, Convolutional Neural Networks, RNNs and others. 
+In this repo I have all the assignments I did for my Advanced Machine Learning course. The topics covered among others include Deep Learning, Time Series, Convolutional Neural Networks, RNNs, Kernel Methods and others. 
